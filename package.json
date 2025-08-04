@@ -1,8 +1,8 @@
 {
   "homepage": "http://dis4damian.github.io/FrameHanger9000"
-  "name": "FrameHanger9000",
+  "name": "react-typescript",
   "version": "1.0.0",
-  "description": "React Frame Hanging start project",
+  "description": "React and TypeScript example starter project",
   "keywords": [
     "typescript",
     "react",
